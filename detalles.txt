@@ -1,0 +1,14 @@
+4 Motores brushless A2208 1400kv 14t,
+4 esc 30A,
+
+2 batería en paralelo lipo 1100mah 2s 30c,
+
+Hélice tripala de 7x4x3 2 CW 2 CCW,
+
+arduino nano v3 + MPU-6050 para cotrol de vuelo,
+
+arduino nano v3 y nrf24l01+ pa lna para el rafio,
+
+Peso total 519g
+,
+40,5 cm Longitud diagonal entre ejes.
